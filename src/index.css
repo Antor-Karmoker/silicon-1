@@ -1,0 +1,14 @@
+/* ------------- tailwind */
+@import "tailwindcss";
+
+/* ------------- layout */
+@utility container {  margin-inline: auto; }
+
+/* --------------- variable */
+
+@theme{
+    --font-main:"Manrope", sans-serif;
+    /* --------- color  */
+    --color-primary:#585C7B ;
+
+}
