@@ -13,7 +13,7 @@ const Footer = () => {
     <>
     
     
-    <section id='footer' className=''>
+    <footer id='footer' className=''>
         <div className="container">
             <div id='footer-row' className='text-center flex flex-col justify-center'>
                 <div className='pt-[64px] flex justify-center'><img src={footerlogo} alt="footer-logo" /></div>
@@ -47,7 +47,7 @@ const Footer = () => {
 
             </div>
         </div>
-    </section>
+    </footer>
     
     
     </>

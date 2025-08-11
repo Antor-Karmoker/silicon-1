@@ -6,6 +6,7 @@ import Carousel from '../components/Carousel'
 import Simple from '../components/Simple'
 import ClientSlider from '../components/ClientSlider'
 import Email from '../components/Email'
+import Faq from '../components/Faq'
 
 const Home = () => {
   return (
@@ -18,6 +19,7 @@ const Home = () => {
     <Carousel />
     <Simple />
     <ClientSlider />
+    <Faq />
     <Email />
     
     </>
