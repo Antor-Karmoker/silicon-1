@@ -16,7 +16,7 @@ const Footer = () => {
     <footer id='footer' className=''>
         <div className="container">
             <div id='footer-row' className='text-center flex flex-col justify-center'>
-                <div className='pt-[64px] flex justify-center'><img src={footerlogo} alt="footer-logo" /></div>
+                <Link to={'#'} className='pt-[64px] flex justify-center'><img src={footerlogo} alt="footer-logo" /></Link>
                 {/* ------------ footer-items */}
             <div className='pt-[48px] pb-[64px] flex justify-center'>
            <ul className='flex gap-[56px] items-center'>
